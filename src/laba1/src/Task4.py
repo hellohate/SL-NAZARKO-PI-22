@@ -9,3 +9,4 @@ def count_expression(n: int = 18) -> float:
 
     print(counted_sum)
     return counted_sum
+count_expression()
